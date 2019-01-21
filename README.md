@@ -1,5 +1,8 @@
 # PHP MeCab
 
+[![php>=7.0](https://img.shields.io/badge/php->%3D7.0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 php-mecab 拡張モジュールを使わずに MeCab を実行するライブラリ。
 ビルドしなくて良いのでたぶんすぐ使える。
 
