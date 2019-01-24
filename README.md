@@ -61,3 +61,7 @@ $mecab->setDictionary('辞書ディレクトリのパス');  // 辞書を設定�
 
 var_dump($mecab->parse());
 ```
+
+## LICENSE
+
+MIT
